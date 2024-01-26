@@ -4,7 +4,7 @@ import { defineConfig } from 'vitepress'
 const links = [
   { text: 'Introduction', link: '/introduction' },
   { text: 'Languages', items: [
-    { text: 'Rust', link: '/languages/javascript'},
+    { text: 'Rust', link: '/languages/Rust'},
       { text: 'JavaScript', link: '/languages/javascript'},
       { text: 'C++', link: '/languages/javascript'},
       { text: 'Java', link: '/languages/javascript'},
@@ -12,17 +12,14 @@ const links = [
 
     ]},
   { text: 'Projects', items: [
-      { text: 'Tic Tac Toe', link: '/projects/rust-todo'},
+      { text: 'Tic Tac Toe', link: '/projects/TicTacToe'},
       { text: 'Todo Liste', link: '/projects/rust-todo'},
       { text: 'Integration web', link: '/projects/rust-todo'},
       { text: 'Site Static', link: '/projects/rust-todo'},
-  ]},
+      { text: 'Application Michael', link: '/projects/rust-todo'},
+
+    ]},
 ]
-
-
-
-
-
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
@@ -68,4 +65,4 @@ export default defineConfig({
       text: 'Edit this page on GitHub'
     }
   }
-})
+  })
