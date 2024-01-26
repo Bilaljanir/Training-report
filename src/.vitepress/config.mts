@@ -19,6 +19,10 @@ const links = [
       { text: 'Application Michael', link: '/projects/rust-todo'},
 
     ]},
+
+  { text: 'Framework', items: [
+
+    ]},
   { text: 'Database', items: [
       { text: 'MySQL', link: '/database/mysql'},
       { text: 'PGSQL', link: '/database/pgsql'},
