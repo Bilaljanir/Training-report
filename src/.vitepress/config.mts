@@ -14,8 +14,8 @@ const links = [
   { text: 'Projects', items: [
       { text: 'Tic Tac Toe', link: '/projects/TicTacToe'},
       { text: 'Todo Liste', link: '/projects/rust-todo'},
-      { text: 'Integration web', link: '/projects/rust-todo'},
-      { text: 'Site Static', link: '/projects/rust-todo'},
+      { text: 'Html CSS', link: '/projects/integrationWeb'},
+      { text: 'WebSite', link: '/projects/website'},
       { text: 'Application Michael', link: '/projects/rust-todo'},
 
     ]},

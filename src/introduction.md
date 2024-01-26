@@ -6,19 +6,10 @@ Bienvenue sur la première page de mon projet. Cette plateforme a été conçue 
 
 - **Date de Naissance:** 1 Janvier 2003
 - **Nationalité:** Libanais / Syrien
-- **Arrivée en Suisse:** Octobre 2017
 - **Langues:** Arabe / Français / Anglais
-- **Email:** bilaljanir@gmail.com
-- **Ville:** Yverdon-Les-Bains
+- **GitHub** Bilaljanir
+
 
 ## Objectif
 
 Je suis actuellement en apprentissage en 1ʳᵉ année informatique ! Passionné par les technologies numériques, j'ai saisi l'opportunité de me former dans ce domaine en constante évolution. Mon objectif est d'acquérir des compétences solides en programmation, gestion de projets et résolution de problèmes informatiques. Je suis ravi de cette expérience d'apprentissage et déterminé à contribuer au monde de l'informatique avec enthousiasme et dévouement.
-
-## Caractéristiques
-
-- **Date de Naissance:** 1 Janvier 2003
-- **Nationalité:** Libanais / Syrien
-- **Langues:** Arabe / Français / Anglais
-- **Email:** bilaljanir@gmail.com
-- **Ville:** Yverdon-Les-Bains
