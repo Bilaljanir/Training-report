@@ -5,10 +5,10 @@ const links = [
   { text: 'Introduction', link: '/introduction' },
   { text: 'Languages', items: [
     { text: 'Rust', link: '/languages/Rust'},
-      { text: 'JavaScript', link: '/languages/javascript'},
-      { text: 'C++', link: '/languages/javascript'},
-      { text: 'Java', link: '/languages/javascript'},
-      { text: 'PHP', link: '/languages/javascript'},
+      { text: 'javascript', link: '/languages/javascript'},
+      { text: 'C++', link: '/languages/C++'},
+      { text: 'Java', link: '/languages/Java'},
+      { text: 'PHP', link: '/languages/PHP'},
 
     ]},
   { text: 'Projects', items: [
