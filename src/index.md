@@ -3,8 +3,8 @@
 layout: home
 
 hero:
-  name: "Toto Tutu"
-  text: "Training report"
+  name: "Bilal Janir"
+  text: "My Training report"
   tagline: "The training report outlines all the skills acquired during the CFC of computer scientist applications development."
   actions:
     - theme: brand
@@ -12,16 +12,12 @@ hero:
       link: /introduction
     - theme: alt
       text: Github repo
-      link: https://github.com/jobtrek/progress-report
+      link: https://github.com/Bilaljanir/Training-report
 
 features:
   - title: My projects
     details: Diffrent projects I have worked on.
     link: /projects/rust-todo
     linkText: See my projects
-  - title: Programming languages
-    details: Programming languages I have worked with.
-    link: /languages/javascript
-    linkText: See learned languages
 ---
 
