@@ -1,5 +1,9 @@
 # Projet Tic Tac Toe en Java
 
+[Click to access the project](https://github.com/Bilaljanir/Tic-tac-toe)
+
+
+
 ## Introduction
 
 Bienvenue dans la documentation de mon projet Tic Tac Toe en Java. Ce projet consiste en une implémentation simple du jeu Tic Tac Toe (Morpion) en utilisant le langage de programmation Java.
@@ -28,9 +32,5 @@ Le jeu Tic Tac Toe est un classique, où deux joueurs s'affrontent pour aligner 
 ## Code Source
 
 Le code source du projet est disponible dans le fichier `Main.java`. N'hésitez pas à explorer le code pour comprendre l'implémentation du jeu.
-
-## Code Source
-
-[Click to access the project](https://github.com/Bilaljanir/Tic-tac-toe)
 
 ---

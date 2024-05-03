@@ -16,11 +16,12 @@ const links = [
       { text: 'Todo Liste', link: '/projects/rust-todo'},
       { text: 'Html CSS', link: '/projects/integrationWeb'},
       { text: 'WebSite', link: '/projects/website'},
-      { text: 'Application Michael', link: '/projects/rust-todo'},
+      { text: 'Application Mandats', link: '/projects/application-mandat'},
 
     ]},
 
   { text: 'Framework', items: [
+      { text: 'Laravel', link: '/projects/website'},
 
     ]},
   { text: 'Database', items: [
